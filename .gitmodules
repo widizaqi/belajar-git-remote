@@ -1,3 +1,4 @@
 [submodule "library"]
 	path = library
 	url = git@github.com:widizaqi/belajar-git-submodule.git
+	branch = release
